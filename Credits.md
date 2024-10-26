@@ -87,6 +87,7 @@ Policies:
 * Weather Engineering: [weather](https://thenounproject.com/icon/weather-3203994/) by Adrien Coquet, FR
 
 Promotions:
+* [Mountaineer](https://thenounproject.com/icon/mountaineer-4454344/) by Lars Meiertoberens, DE
 * Powered Armor: [Power Glove](https://thenounproject.com/icon/power-glove-118878/) by Robert Bjurshagen, SE
 
 Religions:
@@ -103,8 +104,15 @@ Resources:
 
 Technologies:
 * Decryption: [encryption](https://thenounproject.com/icon/encryption-3627994/) by IconPai, IN
+* Ecotheory: [ecology science](https://thenounproject.com/icon/ecology-science-4554717/) by Soremba, DE
+* Full-Spectrum Dominance: [techonology war](https://thenounproject.com/icon/technology-war-3683724/) by WiStudio, TH
 * Geo Engineering: [geological](https://thenounproject.com/term/geological/2631469/) by Nithinan Tatah, TH
+* Hoplology: [Scroll](https://thenounproject.com/icon/scroll-5139842/) by lastspark, KZ
 * Hydroponics: [Hydroponics](https://thenounproject.com/icon/hydroponics-83408/) by Krisada, TH
+* Moisture Harvesting: [fog harvesting](https://thenounproject.com/icon/fog-harvesting-6854413/) by Side Project, ES
+* Mountain Exploration: [adventure](https://thenounproject.com/icon/adventure-68979/) by Ben Markoch, US
+* [Rewilding](https://thenounproject.com/icon/rewilding-5549246/) by Good Father, ID
+* [Storytelling](https://thenounproject.com/icon/storytelling-6567093/) by Lars Meiertoberens, DE
 
 Units:
 * 4x4: [Jeep](https://thenounproject.com/icon/jeep-2648/) by Luis Prado, US

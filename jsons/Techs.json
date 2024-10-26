@@ -552,7 +552,7 @@
 			{
 				"name": "Particle Physics",
 				"row": 4,
-				"prerequisites": ["Lasers", "Nuclear Power"],
+				"prerequisites": ["Lasers", "Nuclear Fission"],
 				"quote": "'Every man takes the limits of his own field of vision for the limits of the world.'" //from Arthur Schopenhauer
 			},
 			{
