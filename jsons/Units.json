@@ -447,7 +447,6 @@
 	{
 		"name": "Purge Robot Proto",
 		"unitType": "Scrapper",
-		"replaces": "Spearman",
 		"uniqueTo": "Hexlock",
 		"upgradesTo": "Purge Robot MKI",
 		"obsoleteTech": "Combined Arms",
@@ -919,7 +918,6 @@
 	{
 		"name": "Purge Robot MKI",
 		"unitType": "Scrapper",
-		"replaces": "Infantry",
 		"uniqueTo": "Hexlock",
 		"upgradesTo": "Purge Robot MKII",
 		"movement": 2,
@@ -1475,9 +1473,9 @@
 			"Consumes [2] [Weapons]",
 			"Never appears as a Barbarian unit",
 			"Only available <if [Automated Factory] is constructed>"
-			],
+		],
 		"promotions": ["Gas Mask","Loose Formation","Reconnaissance I","Reconnaissance II"],
-		"attackSound": "shot"
+		"attackSound": "machinegun"
 	},
 
 	// Siege
@@ -1493,7 +1491,7 @@
 		"obsoleteTech": "Munitions",
 		"uniques": [
 			"[+20]% Strength <vs [Low Tech] units>",
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[-1] Sight",
@@ -1516,7 +1514,7 @@
 		"obsoleteTech": "Munitions",
 		"uniques": [
 			"[+33]% Strength <vs [Low Tech] units>",
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[-1] Sight"
@@ -1552,7 +1550,7 @@
 		"requiredTech": "Munitions",
 		"upgradesTo": "Rocket Artillery",
 		"uniques": [
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"Must set up to ranged attack",
@@ -1566,7 +1564,7 @@
 	},
 	{
 		"name": "Machine Gun",
-		"unitType": "Siege",
+		"unitType": "Shooter",
 		"range": 2,
 		"movement": 2,
 		"strength": 50,
@@ -1574,12 +1572,14 @@
 		"cost": 150,
 		"requiredTech": "Replaceable Parts",
 		"uniques": [
+			"Personnel",
 			"Must set up to ranged attack",
 			"[-33]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities> <when attacking>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
+		"promotions": ["Logistics"],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
 	},
@@ -1791,7 +1791,7 @@
 		"cost": 225,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"obsoleteTech": "Advanced Materials",
+		"obsoleteTech": "Full-Spectrum Dominance",
 		"uniques": [
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
@@ -1842,7 +1842,7 @@
 		"cost": 265,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"obsoleteTech": "Advanced Materials",
+		"obsoleteTech": "Full-Spectrum Dominance",
 		"uniques": [
 			"Only available <if [Factory] is constructed>",
 			"[+25]% Strength <vs [Air] units>",
@@ -1864,7 +1864,7 @@
 		"cost": 245,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"obsoleteTech": "Advanced Materials",
+		"obsoleteTech": "Full-Spectrum Dominance",
 		"uniques": [
 		    "[+15]% Strength <when attacking>",
 			"[-15]% Strength <when defending>",
@@ -1883,7 +1883,7 @@
 		"movement": 5,
 		"strength": 80,
 		"cost": 375,
-		"requiredTech": "Advanced Materials",
+		"requiredTech": "Full-Spectrum Dominance",
 		"upgradesTo": "Advanced Armor",
 		"uniques": [
 			"Can move after attacking",
@@ -1899,7 +1899,6 @@
 	{
 		"name": "Purge Robot MKII",
 		"unitType": "Armor",
-		"replaces": "Modern Armor",
 		"uniqueTo": "Hexlock",
 		"upgradesTo": "Purge Robot",
 		"movement": 5,
@@ -2050,7 +2049,7 @@
 		"cost": 350,
 		"requiredTech": "Rocketry",
 		"uniques": [
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"[-1] Sight",
@@ -2362,7 +2361,7 @@
 		"range": 10,
 		"interceptRange": 10,
 		"cost": 500,
-		"requiredTech": "Future Materials",
+		"requiredTech": "Stealth",
 		"hurryCostModifier": 20,
 		"uniques": [
 			"[100]% chance to intercept air attacks",
@@ -2441,7 +2440,7 @@
 		"rangedStrength": 85,
 		"range": 20,
 		"cost": 500,
-		"requiredTech": "Future Materials",
+		"requiredTech": "Stealth",
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Only available <if [Aerospace Facility] is constructed>",

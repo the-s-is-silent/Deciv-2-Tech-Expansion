@@ -1211,10 +1211,7 @@
 		"cityStateType": "Prayer",
 		"style": "",
 		"uniques": [
-			"No damage penalty for wounded units",
-			"Cannot build [Armor] units",
-			"Cannot build [Siege] units",
-			"Cannot build [Helicopter] units"
+			"No damage penalty for wounded units"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Your desire for power will only bring you suffering.",

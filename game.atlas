@@ -48,21 +48,21 @@ CityStateIcons/Trading
   index: -1
 CityStateIcons/Weapons
   rotate: false
-  xy: 976, 261
+  xy: 1084, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 EmojiIcons/Faith
   rotate: false
-  xy: 742, 96
+  xy: 1930, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 916, 96
+  xy: 1084, 254
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -797,7 +797,7 @@ ResourceIcons/VX
   index: -1
 ResourceIcons/Weapons
   rotate: false
-  xy: 1084, 370
+  xy: 976, 261
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -970,331 +970,345 @@ UnitPromotionIcons/Combat Drill
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Control
+UnitPromotionIcons/Conquer Terrain
   rotate: false
   xy: 510, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Convoy
+UnitPromotionIcons/Control
   rotate: false
   xy: 1698, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Damage Control
+UnitPromotionIcons/Convoy
   rotate: false
   xy: 568, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Devout
+UnitPromotionIcons/Damage Control
   rotate: false
   xy: 1756, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Drone Recon
+UnitPromotionIcons/Devout
   rotate: false
   xy: 626, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Drone Support
+UnitPromotionIcons/Drone Recon
   rotate: false
   xy: 1814, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Entrench
+UnitPromotionIcons/Drone Support
   rotate: false
   xy: 684, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Evasive Maneuvers
+UnitPromotionIcons/Entrench
   rotate: false
   xy: 1872, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Evasive Maneuvers
+  rotate: false
+  xy: 742, 96
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Flank Speed
-  rotate: false
-  xy: 1930, 636
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Maneuver
-  rotate: false
-  xy: 1930, 636
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Forage
   rotate: false
   xy: 800, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Full Patch
+UnitPromotionIcons/Maneuver
+  rotate: false
+  xy: 800, 96
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Forage
   rotate: false
   xy: 1988, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Gas Mask
+UnitPromotionIcons/Full Patch
   rotate: false
   xy: 858, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Guerilla Warfare
+UnitPromotionIcons/Gas Mask
   rotate: false
-  xy: 1084, 254
+  xy: 916, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hang-Around
+UnitPromotionIcons/Guerilla Warfare
   rotate: false
   xy: 1142, 312
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hazard Pay
+UnitPromotionIcons/Hang-Around
   rotate: false
   xy: 1142, 254
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Headhunter
+UnitPromotionIcons/Hazard Pay
   rotate: false
   xy: 1250, 420
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hull Down
+UnitPromotionIcons/Headhunter
   rotate: false
   xy: 1358, 528
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Infantry Mortar
+UnitPromotionIcons/Hull Down
   rotate: false
   xy: 976, 145
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Infantry Weapons
+UnitPromotionIcons/Infantry Mortar
   rotate: false
   xy: 974, 87
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Littoral Warfare
+UnitPromotionIcons/Infantry Weapons
   rotate: false
   xy: 178, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Loose Formation
+UnitPromotionIcons/Littoral Warfare
   rotate: false
   xy: 236, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Napalm
+UnitPromotionIcons/Loose Formation
   rotate: false
   xy: 294, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/One Percent
+UnitPromotionIcons/Mountaineer
   rotate: false
   xy: 352, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Point Defense Laser
+UnitPromotionIcons/Napalm
   rotate: false
   xy: 410, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Portable Power Cell
+UnitPromotionIcons/One Percent
   rotate: false
   xy: 468, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Powered Armor
+UnitPromotionIcons/Point Defense Laser
   rotate: false
   xy: 526, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Precision
+UnitPromotionIcons/Portable Power Cell
   rotate: false
   xy: 584, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Pride
+UnitPromotionIcons/Powered Armor
   rotate: false
   xy: 642, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Promotion Nullifier
+UnitPromotionIcons/Precision
   rotate: false
   xy: 700, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Prospect
+UnitPromotionIcons/Pride
   rotate: false
   xy: 758, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Pursuit
+UnitPromotionIcons/Promotion Nullifier
   rotate: false
   xy: 816, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Strike
-  rotate: false
-  xy: 816, 38
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Radioactive
+UnitPromotionIcons/Prospect
   rotate: false
   xy: 874, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Raider
+UnitPromotionIcons/Pursuit
   rotate: false
   xy: 1034, 196
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Reconnaissance
+UnitPromotionIcons/Strike
+  rotate: false
+  xy: 1034, 196
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Radioactive
   rotate: false
   xy: 1092, 196
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Seafarer
+UnitPromotionIcons/Raider
   rotate: false
   xy: 1034, 138
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Skirmish
+UnitPromotionIcons/Reconnaissance
   rotate: false
   xy: 1092, 138
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Smokescreen
+UnitPromotionIcons/Seafarer
   rotate: false
   xy: 1150, 196
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Stormfront
+UnitPromotionIcons/Skirmish
   rotate: false
   xy: 1150, 138
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Super Alloy
+UnitPromotionIcons/Smokescreen
   rotate: false
   xy: 1032, 80
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Suppression
+UnitPromotionIcons/Stormfront
   rotate: false
   xy: 1090, 80
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Surface-to-Air Missile
+UnitPromotionIcons/Super Alloy
   rotate: false
   xy: 1148, 80
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Tear Gas
+UnitPromotionIcons/Suppression
   rotate: false
   xy: 1308, 470
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Thermoptic Camouflage
+UnitPromotionIcons/Surface-to-Air Missile
   rotate: false
   xy: 1308, 412
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Urban Warfare
+UnitPromotionIcons/Tear Gas
   rotate: false
   xy: 1366, 470
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/White Phosphorus Munitions
+UnitPromotionIcons/Thermoptic Camouflage
   rotate: false
   xy: 1366, 412
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Urban Warfare
+  rotate: false
+  xy: 1200, 362
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/White Phosphorus Munitions
+  rotate: false
+  xy: 1200, 304
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

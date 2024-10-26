@@ -35,6 +35,7 @@ Buildings:
 * Domesday Project: based on [Book](https://thenounproject.com/icon/book-2173674/) by scott desmond, FR, and [UK](https://thenounproject.com/icon/uk-695682/) by Tom Walsh, GB
 * Earthscraper: [skyscraper](https://thenounproject.com/icon/skyscraper-1811460/) by iconcheese, adapted slightly
 * Earthscraper Project: [Skyscraper](https://thenounproject.com/icon/skyscraper-1038032/) by Maxim Kulikov, adapted slightly
+* Eco-Sanctuary: [national park award](https://thenounproject.com/icon/national-park-award-986718/) by Juraj Sedlák
 * Electrostatic Generator: [generator](https://thenounproject.com/icon/generator-4308223/) by WiStudio, TH
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
 * Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL
@@ -66,12 +67,14 @@ Buildings:
 * Skunkworks: [Skunk](https://thenounproject.com/icon/skunk-570430/) by Liliane Lass Erbe, BR
 * Smart Grid: [power line](https://thenounproject.com/icon/power-line-1832965/) by Pause08, TH
 * Software Lab: [Software](https://thenounproject.com/icon/software-2882603/) by Aficons, ID
+* State Archive: [national museum](https://thenounproject.com/icon/national-museum-4666555/) by Amethyst Studio, TH
 * Syngas Plant: [gas plant](https://thenounproject.com/icon/gas-plant-1970746/) by ProSymbols, US
 * The Green Palace: [factory green](https://thenounproject.com/icon/factory-green-2266867/) by Eucalyp
 * The Last Paradise: [Bird of Paradise](https://thenounproject.com/icon/bird-of-paradise-3890707/) by Kevin, US
 * Uranium Centrifuge: [centrifuge](https://thenounproject.com/icon/centrifuge-3771162/) by Carl Holderness, GB
 * Urine Recycler: [urine](https://thenounproject.com/term/urine/3650621/) by Llisole
 * Virtual Panopticon: [panopticon](https://thenounproject.com/icon/panopticon-176669/) by Gregor Cresnar
+* Warnet: [war](https://thenounproject.com/icon/war-5735299/) by lakonicon, ID
 * Yassa: [Scroll](https://thenounproject.com/icon/scroll-6952494/) by ramacae, ID
 
 Nations:
@@ -167,7 +170,3 @@ Policies:
 Technologies:
 * Decontamination: [Biohazard symbol](https://commons.wikimedia.org/wiki/File:Biohazard_symbol.svg)
 * Energy Weapons: [Laser-symbol](https://commons.wikimedia.org/wiki/File:Laser-symbol.svg)
-
-## Other
-
-Banner and Preview image: from the defunct [Gone with the Blastwave](http://www.blastwave-comic.com/) by Kimmo Lemetti
