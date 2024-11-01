@@ -19,6 +19,7 @@ New Content
 -Added several new technologies:
 	- Decivilized era: Optics
 	- Rediscovering era: Moisture Harvesting, Mountain Exploration, Storytelling
+    - Neofeudal era: Hoplology
 	- Rebuilding era: Ecotheory
 	- Industrial era: Re-Utilization
 	- Postmodern era: Full-Spectrum Dominance
@@ -45,6 +46,7 @@ Balance Changes
 -Atlas, Blackwarden, Hexlock, Patriots all lose free Electronics Tech
 -Barbarian Water units can no longer pillage tiles
 -Biosphere Project moved to Atmosphere Remediation
+-Bomb Shelter (and replacements) now give +3 Water per turn instead of +1
 -Computers and Radar now require Electronics
 -Data Center nerfed to +5 Science instead of +50% Science (Hexlock's version nerfed to +8 instead of +65%)
 -Deadrock Clan now has better defense from spies and an extra spy instead of Barbarian recruitment
@@ -89,6 +91,7 @@ Balance Changes
 -Standard and Salvaged Purge Robots now automatically start with Portable Power Cell, so Hexlock loses that ability from its UA
 -Starting in a later era (Rebuilding onward) now actually gives the player extra units/buildings/population/etc. like it's supposed to
 -Stealth Fighter/Bomber have been moved to Stealth technology
+-Several identity wonders have been nerfed
 -The gold to science slider has been removed, and the Science costs of all technologies have been reduced accordingly
 -Unit embarking now unlocks at Optics instead of Sailing
 -Water providing buildings have been buffed slightly
