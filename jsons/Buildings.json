@@ -374,6 +374,28 @@
 			}
 		]
 	},
+	{
+		"name": "Landing Beacon",
+		"isWonder": true,
+		"uniqueTo": "Prasiddh Shahar",
+		"cost": 0,
+		"gold": 1,
+		"science": 1,
+		"uniques": [
+			"Provides [1] [Power]",
+			"Provides [1] [Weapons]",
+			"Free [Vyomanaut] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Lab] [in this city]"
+		],
+		"quote": "Keep the signal going, and we'll help out whenever we can. Know that there's still life up here, and so what you need to do to keep life going down there.",
+		"civilopediaText": [
+			{
+				"text": "Keep the signal going, and we'll help out whenever we can. Know that there's still life up here, and so what you need to do to keep life going down there."
+			}
+		]
+	},
 
 	// Cultural victory
 	{
@@ -1931,6 +1953,20 @@
 		]
 	},
 	{
+		"name": "Food Lab",
+		"replaces": "Food Store",
+		"uniqueTo": "Prasiddh Shahar",
+		"cost": 10,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"[10]% Food is carried over after population increases [in this city]",
+			"[10]% Food is carried over after population increases [in this city] <after discovering [Refrigeration]>",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Alcohol]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Narcotics]>"
+		]
+	},
+	{
 		"name": "Cold Store",
 		"percentStatBonus": { "food": 10 },
 		"maintenance": 1,
@@ -1968,6 +2004,21 @@
 		"uniques": [
 			"[+1 Food] from [Tubers] tiles [in this city]",
 			"[+1 Food] from [Grain] tiles [in this city]"
+		],
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Botany"
+	},
+	{
+		"name": "Vegetable Apparatus",
+		"uniqueTo": "Prasiddh Shahar",
+		"replaces": "Greenhouse",
+		"food": 2,
+		"specialistSlots": { "Farmer": 1 },
+		"uniques": [
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"[+1 Food, +1 Happiness] [in this city] <after discovering [Refrigeration]>"
 		],
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -3201,7 +3252,7 @@
 		"name": "Warnet",
 		"isNationalWonder": true,
 		"uniques": [
-			"[+15]% Strength <for [Military] units>",
+			"[+20]% Strength <for [Military] units>",
 			"Only available <if [Armaments Production Line] is constructed in at least [4] of [Your] cities>",
 			"Only available <if [Armor Production Line] is constructed in at least [4] of [Your] cities>",
 			"Only available <if [Aerospace Facility] is constructed in at least [4] of [Your] cities>",
@@ -3703,6 +3754,21 @@
 				"text": "You can construct advanced aircraft units after constructing this building."
 			}
 		]
+	},
+	{
+		"name": "Launchpad",
+		"uniqueTo": "Prasiddh Shahar",
+		"replaces": "Aerospace Facility",
+		"cityStrength": 15,
+		"culture": 1,
+		"uniques": [
+			"[Aircraft] units gain the [Advanced Weapons] promotion",
+			"[+15]% Production when constructing [Air] units [in this city] <when above [-2] [Power]>",
+			"[+15]% Production when constructing [All] wonders [in this city] <when above [-2] [Power]>",
+			"Only available <in cities with a [Factory]>",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Rocketry"
 	},
 	{
 		"name": "Automated Factory",

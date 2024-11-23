@@ -266,7 +266,7 @@
 				"name": "Hoplology",
 				"row": 8,
 				"prerequisites": ["Civil Service", "Rifling"],
-				"quote": "I must study politics and war that my sons may have liberty to study mathematics and philosophy." //from John Adams, used as quote for Military Science in Civ 4
+				"quote": "Much as the bleeding hearts may dislike the fact, war and its culture form an integral part of human history and human life and are likely to do so for all future to come." //from Martin van Crevald, "The Culture of War"
 			},
 			{
 				"name": "Radio",

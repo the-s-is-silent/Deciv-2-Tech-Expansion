@@ -40,11 +40,14 @@ Buildings:
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
 * Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL
 * First Chapter: [Piston](https://thenounproject.com/icon/piston-6027703/) by roni pambudi, ID
+* Food Lab: [lab](https://thenounproject.com/icon/lab-6858955/) by Paonkz, ID
 * Frumentarii Camp: [military tent](https://thenounproject.com/icon/military-tent-4831044/) by Koson Rattanaphan, TH
 * Fusion Reactor: [Nuclear Reactor](https://thenounproject.com/term/nuclear-reactor/4110972/) by Robert Bjurshagen, SE
 * Garage: [Garage](https://thenounproject.com/icon/garage-6886587/) by Andi Nur Abdillah, ID
 * Greywater Treatment Plant: [Water Filter](https://thenounproject.com/icon/water-filter-1929073/) by Vectors Market
 * Jamci: based on [post station](https://thenounproject.com/icon/post-station-6507806/) by Agus Rene, ID
+* Landing Beacon: [Satellite Dish](https://thenounproject.com/icon/satellite-dish-6558267/) by huijae Jang, KR
+* Launchpad: [launchpad](https://thenounproject.com/icon/launchpad-4723197/) by Dániel Z. Aczél
 * Listening Post: [peeping tom](https://thenounproject.com/term/peeping-tom/38344/) by Luis Prado, US
 * Medical Network: [medical symbol](https://thenounproject.com/icon/medical-symbol-4224166/) by VectorsLab, PK
 * Mining Operation: [canyon](https://thenounproject.com/icon/canyon-3005193/) by iconfield, ID
@@ -73,11 +76,13 @@ Buildings:
 * The Last Paradise: [Bird of Paradise](https://thenounproject.com/icon/bird-of-paradise-3890707/) by Kevin, US
 * Uranium Centrifuge: [centrifuge](https://thenounproject.com/icon/centrifuge-3771162/) by Carl Holderness, GB
 * Urine Recycler: [urine](https://thenounproject.com/term/urine/3650621/) by Llisole
+* Vegetable Apparatus: [hydroponic](https://thenounproject.com/icon/hydroponic-5908651/) by Muhammad Nur Auliady Pamungkas, ID
 * Virtual Panopticon: [panopticon](https://thenounproject.com/icon/panopticon-176669/) by Gregor Cresnar
 * Warnet: [war](https://thenounproject.com/icon/war-5735299/) by lakonicon, ID
 * Yassa: [Scroll](https://thenounproject.com/icon/scroll-6952494/) by ramacae, ID
 
 Nations:
+* Prasiddh Shahar: [Trident](https://thenounproject.com/icon/trident-4066019/) by Studio 365, TH
 * Proklyatyye: [skeleton hand](https://thenounproject.com/icon/skeleton-hand-2108458/) by Vectors Market
 
 Policies:
@@ -117,6 +122,7 @@ Technologies:
 Units:
 * 4x4: [Jeep](https://thenounproject.com/icon/jeep-2648/) by Luis Prado, US
 * Attack Boat: [warship](https://thenounproject.com/icon/warship-2507030/) by Phạm Thanh Lộc, VN
+* Avatar: [spacecraft](https://thenounproject.com/icon/spacecraft-715095/) by Daniela Baptista, PT
 * Black Ops: [cloth](https://thenounproject.com/icon/cloth-1948963/) by Eucalyp
 * Censor: [Blind](https://thenounproject.com/icon/blind-2139794/) by Nubaia Karim Barsha
 * Contaminator: [respirator](https://thenounproject.com/icon/respirator-4018346/) by Icongeek26, IN
@@ -142,12 +148,14 @@ Units:
 * Stealth Fighter: [F-22](https://thenounproject.com/icon/f-22-751638/) by RomanP, US
 * Torpedo Boat: [speedboat](https://thenounproject.com/icon/speedboat-2713601/) by Silviu Ojog, RO
 * Tsar Bomba: [atomic bomb](https://thenounproject.com/icon/atomic-bomb-4991299/) by Muhammad Atiq, PK
+* Vyomanaut: [Astronaut](https://thenounproject.com/icon/astronaut-6947924/) by HA TAE WOONG, KR
 * Wild Dog: [Dog](https://thenounproject.com/icon/dog-180819/) by Dennis Nicolai Andersen, DK
 
 Tile improvements:
 * Borehole: [drill](https://thenounproject.com/icon/drill-1132331/) by Andrejs Kirma, LV
 * Drum site: [radioactive waste](https://thenounproject.com/icon/radioactive-waste-1086494/) by b farias, CL
 * Factory farm: [silo](https://thenounproject.com/icon/silo-2860577/) by MHD AZMI DWIPRANATA, ID
+* Filter pump: [Water Pump](https://thenounproject.com/icon/water-pump-6725957/) by Marz Gallery, ID
 * Trench: [dent](https://thenounproject.com/icon/dent-3355848/) by Andrejs Kirma, LV
 * Yurt: [Yurt](https://thenounproject.com/icon/yurt-4673233/) by M. Oki Orlando, ID
 

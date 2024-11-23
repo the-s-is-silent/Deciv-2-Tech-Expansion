@@ -185,6 +185,9 @@
 		"Coast+Oil+Oil well": ["Coast", "Oil", "Offshore Platform"],
 		"Ocean+Oil+Oil well": ["Ocean", "Oil", "Offshore Platform"],
 		//Deciv Tile Improvements
+		//Mountainous
+		"Mountain+Moisture trap": ["Mountain", "Moisture trap-Mountain"],
+		"Mountain+Artificial glacier": ["Mountain", "Artificial glacier-Mountain"],
 		//Salvage site
 		"Wasteland+Salvage site+Scrap": ["Wasteland", "Scrap", "Salvage site"],
 		"Wasteland+Forest+Salvage site+Scrap": ["Wasteland", "Scrap", "WastelandForest", "Salvage site"],
