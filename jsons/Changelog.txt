@@ -11,6 +11,7 @@ New Content
 -Added personalities
 -Added new faction: The Hunnu (Mongolian themed raider gang)
 -Added new faction: Prasiddh Shahar (Indian astronauts who waited out the Cataclysm in their space station)
+-Added five UUs for the Dahomey CS based on the historical Dahomey Amazons
 -Added Community Garden (Neofeudal era Food building that boosts Great Person spawn rate, replaces Listening Post's old function)
 -Added Domesday Project (Industrial era world wonder that boosts Great Person spawn rate and adds Science + Culture to luxuries worked by the city)
 -Added Earthscraper (Information era building that adds more Food, more City HP, more protection from nukes, +1 population, and +1 of each specialist)
@@ -32,7 +33,7 @@ New Content
 -Added State Archive (Rediscovering era national wonder that adds Culture and Happiness based on which luxuries the faction owns)
 -Added Warnet (Postmodern era national wonder that adds +20% Strength to all units but requires building Aerospace Facilities, Armaments Production Lines, Armor Production Lines and Decryption Centers in at least 4 cities each)
 -Added Mountaineer promotion (Special promotion that lets units enter Mountain tiles and makes them take 20 less damage if they end their turn on one)
--Added Filter pump improvement (Built on Lakes exclusively, improves tile's Water yield by 1-2)
+-Added Filter pump improvement (Built on Lakes exclusively, improves tile's Water yield by 2)
 
 //
 Balance Changes

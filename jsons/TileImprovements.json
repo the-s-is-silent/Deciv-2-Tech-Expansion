@@ -10,6 +10,7 @@
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
 			"[+1 Food] <after discovering [Land Remediation]>",
 			"Cannot be built on [Fissure] tiles",
+			"Cannot be built on [Water] tiles",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],
 		"shortcutKey": "F"
@@ -80,6 +81,19 @@
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],
 		"shortcutKey": "U"
+	},
+	{
+		"name": "Filter pump",
+		"terrainsCanBeBuiltOn": [
+			"Lakes"
+		],
+		"gold": 2,
+		"turnsToBuild": 5,
+		"uniques": [
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"techRequired": "Decontamination",
+		"shortcutKey": "F"
 	},
 	{
 		"name": "Solar collector",
@@ -323,6 +337,7 @@
 		"techRequired": "Biology",
 		"uniques": [
 			"Can also be built on tiles adjacent to fresh water",
+			"Cannot be built on [Water] tiles",
 			"Provides [1] [Oil]",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],

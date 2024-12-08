@@ -2123,6 +2123,7 @@
 		"uniques": [
 			"Can move after attacking",
 			"No defensive terrain bonus",
+			"Can carry [1] [Missile] units",
 			"[+150]% Strength <vs [Armor] units>",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Only available <if [Factory] is constructed>",
@@ -2198,7 +2199,6 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Can move after attacking",
 			"Never appears as a Barbarian unit"
 		],
@@ -2221,7 +2221,6 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Can move after attacking",
 			"[+25]% Strength <when defending>"
 		],
@@ -2244,7 +2243,6 @@
 			"Can only attack [Military] units",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2270,7 +2268,6 @@
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
 			"Only available <if [Aerospace Facility] is constructed>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
 		],
@@ -2295,7 +2292,6 @@
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
 			"Only available <if [Aerospace Facility] is constructed>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
 			"Consumes [1] [Aluminum]",
 			"Never appears as a Barbarian unit"
@@ -3825,7 +3821,111 @@
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
-	
+	{
+		"name": "Gbeto",
+		"unitType": "Scrapper",
+		"uniqueTo": "Dahomey",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 20,
+		"interceptRange": 1,
+		"cost": 55,
+		"upgradesTo": "Militia",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Low Tech",
+			"No damage penalty for wounded units",
+			"[+50]% Strength <vs [Mounted] units>",
+			"May capture killed [Land] units <with [50]% chance>"
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Gohento",
+		"unitType": "Shooter",
+		"replaces": "Archer",
+		"uniqueTo": "Dahomey",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 15,
+		"range": 1,
+		"cost": 40,
+		"hurryCostModifier": 15,
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Gunman",
+		"uniques": [
+			"Low Tech",
+			"No damage penalty for wounded units",
+			"[+25]% Strength <when fighting in [Foreign Land] tiles>"
+		],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Nyekplohento",
+		"unitType": "Scrapper",
+		"replaces": "Machete",
+		"uniqueTo": "Dahomey",
+		"movement": 2,
+		"strength": 24,
+		"cost": 50,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Militia",
+		"uniques": [
+			"Low Tech",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"No damage penalty for wounded units",
+ 			"May capture killed [Land] units <with [50]% chance>"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Agbarya",
+		"unitType": "Siege",
+		"uniqueTo": "Dahomey",
+		"replaces": "Cannon",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 25,
+		"range": 2,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Munitions",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"No damage penalty for wounded units",
+			"[+33]% Strength <vs [Low Tech] units>",
+			"[+200]% Strength <vs cities> <when attacking>",
+			"[+25]% Strength <when adjacent to a [Shooter] unit>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"[-1] Sight"
+		],
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Gulohento",
+		"unitType": "Shooter",
+		"replaces": "Rifleman",
+		"uniqueTo": "Dahomey",
+		"range": 1,
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 30,
+		"interceptRange": 1,
+		"cost": 120,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Marksman",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"No damage penalty for wounded units",
+			"May capture killed [Land] units <with [50]% chance>"
+		],
+		"attackSound": "shot"
+	},
 
 	//Terraformer parts
 

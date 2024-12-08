@@ -121,6 +121,7 @@ Technologies:
 
 Units:
 * 4x4: [Jeep](https://thenounproject.com/icon/jeep-2648/) by Luis Prado, US
+* Agbarya: [blunderbuss](https://thenounproject.com/icon/blunderbuss-5097470/) by Amethyst Studio, TH
 * Attack Boat: [warship](https://thenounproject.com/icon/warship-2507030/) by Phạm Thanh Lộc, VN
 * Avatar: [spacecraft](https://thenounproject.com/icon/spacecraft-715095/) by Daniela Baptista, PT
 * Black Ops: [cloth](https://thenounproject.com/icon/cloth-1948963/) by Eucalyp
@@ -131,7 +132,10 @@ Units:
 * Drop Troops: [jetpack](https://thenounproject.com/icon/jetpack-3394735/) by Nhor
 * Exo-Trooper: [space marine](https://thenounproject.com/icon/space-marine-118870/) by Robert Bjurshagen, SE 
 * Forward Observer: [Motorcycle](https://thenounproject.com/icon/motorcycle-1578797/) by Abdul Wahhab
+* Gbeto: [antlers](https://thenounproject.com/icon/antlers-4388537/) by TRAVIS BIRD, US
+* Gohento: [bow](https://thenounproject.com/icon/bow-6406786/) by wisnu ayubkhan, ID
 * Gravity Turret: [Tank](https://thenounproject.com/icon/tank-3679624/) by Vectorstall, PK
+* Gulohento: [black caiman](https://thenounproject.com/icon/black-caiman-3385905/) by Phạm Thanh Lộc, VN
 * Heavy Carrier: [Aircraft Carrier](https://thenounproject.com/icon/aircraft-carrier-4133107/) by Amethyst Studio, TH
 * Hovercraft: [Hovercraft](https://thenounproject.com/icon/hovercraft-30739/) by Theresa Stoodley, US
 * Jet Boat: [Jet Ski](https://thenounproject.com/term/jet-ski/1676951/) by Mello
@@ -140,6 +144,7 @@ Units:
 * Light Drone: [Drone](https://thenounproject.com/icon/drone-32876/) by Blaise Sewell, US
 * Missile Defense System: [Air Defense Missile Launcher](https://thenounproject.com/icon/air-defense-missile-launcher-1189656/) by usubaliev, TR
 * Mutant: [hunchback posture](https://thenounproject.com/icon/hunchback-posture-3666455/) by Pelin Kahraman, TR
+* Nyekplohento: [dagger](https://thenounproject.com/icon/dagger-1969000/) by Eucalyp
 * Purge Robot: [space marine](https://thenounproject.com/icon/space-marine-118882/) by Robert Bjurshagen, SE 
 * Quadcopter Drone: [Quadcopter](https://thenounproject.com/icon/quadcopter-2003189/) by kareemov1000, ID
 * Rider: [Wheel](https://thenounproject.com/icon/wheel-1053398/) by Alina Oleynik
