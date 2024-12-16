@@ -39,6 +39,7 @@ New Content
 Balance Changes
 //
 
+-The AI now plays on a special difficulty, gets even more bonuses the player doesn't have, and is thus even harder to defeat
 -Aerospace Facility no longer penalizes city Production, but now has a maintenance cost of 3
 -Arcology Dome now requires 20 population instead of 2 to build, but adds more City HP
 -Arena/Colosseum now replace Stadium for Ignis/Legion
