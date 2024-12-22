@@ -100,10 +100,14 @@ Religions:
 * Posadism: [ufo](https://thenounproject.com/icon/ufo-1903713/) by merkavah, PL
 
 Resources:
+* Cactus: [Cactus](https://thenounproject.com/icon/cactus-6873873/) by hibernut, ID
+* Cobalt: [Cobalt](https://thenounproject.com/icon/cobalt-3556737/) by Gregor Cresnar
+* Deep-sea Fish: [anglerfish](https://thenounproject.com/icon/anglerfish-4138233/) by Danil Polshin, RU
 * Furs: [Rat](https://thenounproject.com/icon/rat-2193355/) by designer468, ID
 * Honey: [Beehive](https://thenounproject.com/icon/beehive-727898/) by Juraj Sedlak, SK
 * Hogs: [Boar](https://thenounproject.com/icon/boar-931007/) by parkjisun
 * Jellyfish: [Jellyfish](https://thenounproject.com/term/jellyfish/53744/) by Eliricon, FI
+* Lithium: [alkaline](https://thenounproject.com/icon/alkaline-4105711/) by JuliAya, ID
 * Plankton: [Plankton](https://thenounproject.com/icon/plankton-3926460/) by Lars Meiertoberens, DE
 * Stimulants: [vaccine](https://thenounproject.com/icon/vaccine-5392925/) by Icon Market, PK
 
@@ -116,8 +120,8 @@ Technologies:
 * Hydroponics: [Hydroponics](https://thenounproject.com/icon/hydroponics-83408/) by Krisada, TH
 * Moisture Harvesting: [fog harvesting](https://thenounproject.com/icon/fog-harvesting-6854413/) by Side Project, ES
 * Mountain Exploration: [adventure](https://thenounproject.com/icon/adventure-68979/) by Ben Markoch, US
+* Record Keeping: [codex](https://thenounproject.com/icon/codex-1687639/) by GrinnUX, US
 * [Rewilding](https://thenounproject.com/icon/rewilding-5549246/) by Good Father, ID
-* [Storytelling](https://thenounproject.com/icon/storytelling-6567093/) by Lars Meiertoberens, DE
 
 Units:
 * 4x4: [Jeep](https://thenounproject.com/icon/jeep-2648/) by Luis Prado, US
@@ -137,7 +141,6 @@ Units:
 * Gravity Turret: [Tank](https://thenounproject.com/icon/tank-3679624/) by Vectorstall, PK
 * Gulohento: [black caiman](https://thenounproject.com/icon/black-caiman-3385905/) by Phạm Thanh Lộc, VN
 * Heavy Carrier: [Aircraft Carrier](https://thenounproject.com/icon/aircraft-carrier-4133107/) by Amethyst Studio, TH
-* Hovercraft: [Hovercraft](https://thenounproject.com/icon/hovercraft-30739/) by Theresa Stoodley, US
 * Jet Boat: [Jet Ski](https://thenounproject.com/term/jet-ski/1676951/) by Mello
 * Jet Rover: [army vehicle](https://thenounproject.com/icon/army-vehicle-4080546/) by Icongeek26, IN
 * Jetsuit: [jetpack](https://thenounproject.com/icon/jetpack-3529977/) by iconnect, ID
@@ -161,7 +164,9 @@ Tile improvements:
 * Drum site: [radioactive waste](https://thenounproject.com/icon/radioactive-waste-1086494/) by b farias, CL
 * Factory farm: [silo](https://thenounproject.com/icon/silo-2860577/) by MHD AZMI DWIPRANATA, ID
 * Filter pump: [Water Pump](https://thenounproject.com/icon/water-pump-6725957/) by Marz Gallery, ID
+* Offshore mine: [oil rig](https://thenounproject.com/icon/oil-rig-5851490/) by Geni Alando
 * Trench: [dent](https://thenounproject.com/icon/dent-3355848/) by Andrejs Kirma, LV
+* Tunnel: [Tunnel](https://thenounproject.com/icon/tunnel-2803054/) by Angelo Troiano, IT
 * Yurt: [Yurt](https://thenounproject.com/icon/yurt-4673233/) by M. Oki Orlando, ID
 
 Icons:

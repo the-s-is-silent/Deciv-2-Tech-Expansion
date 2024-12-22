@@ -117,7 +117,7 @@
 				"row": 2,
 				"prerequisites": ["Redomestication", "Optics"],
 				"uniques": [
-					"Comment [Enables Scout and Mounted units to enter Mountain tiles and reduces damage taken from ending their turn there]",
+					"Comment [Enables Scout and Mounted units to enter Mountain tiles]",
 					"[Scout] units gain the [Mountaineer] promotion <hidden from users>",
 					"[Mounted] units gain the [Mountaineer] promotion <hidden from users>"
 				],
@@ -130,7 +130,7 @@
 				"quote": "'Be at peace in the knowledge that all the neoliberals will die with the biosphere.' - Eric Price"
 			},
 			{
-				"name": "Storytelling",
+				"name": "Record Keeping",
 				"row": 4,
 				"prerequisites": ["Writing"],
 				"quote": "'And if you believe that drivel, I've got a prime piece of radioactive swampland to sell you!' - Rozalia Nowakalska, Nowa Polska diplomat"
@@ -160,7 +160,7 @@
 			{
 				"name": "Education",
 				"row": 4,
-				"prerequisites": ["Storytelling"],
+				"prerequisites": ["Record Keeping"],
 				"uniques": ["Enables Research agreements"],
 				"quote": "Hereby it is manifest that during the time men live without a common Power to keep them all in awe, they are in that condition which is called War; and such a war as is of every man against every man." // (from Thomas Hobbes's *Leviathan*)
 			},

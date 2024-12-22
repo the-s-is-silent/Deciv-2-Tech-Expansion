@@ -35,6 +35,7 @@
 		"upgradesTo": "Mechanized Worker",
 		"uniques": [
 			"Can build [Land] improvements on tiles",
+			"Can build [Lakes] improvements on tiles",
 			"Automation is a primary action"
 		],
 		"cost": 70

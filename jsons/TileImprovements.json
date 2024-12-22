@@ -70,7 +70,8 @@
 			"Swamp",
 			"Tundra",
 			"Permafrost",
-			"Mountain"
+			"Mountain",
+			"Mountain Tunnel"
 		],
 		"gold": 1,
 		"turnsToBuild": 5,
@@ -329,6 +330,17 @@
 		"shortcutKey": "W"
 	},
 	{
+		"name": "Offshore mine",
+		"techRequired": "Oceanography",
+		"uniques": [
+			"Can only be built to improve a resource",
+			"[+1 Production, +1 Science] <after discovering [Advanced Materials]>",
+			"Provides [1] [Cobalt] <in [Cobalt] tiles> <after discovering [Advanced Materials]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "M"
+	},
+	{
 		"name": "Energy farm",
 		"terrainsCanBeBuiltOn": ["Swamp"],
 		"production": 1,
@@ -423,10 +435,10 @@
 			"[+1 Food, +1 Gold] <after discovering [Decontamination]>",
 			"Provides [1] [Uranium] <in [Fallout] tiles> <after discovering [Decontamination]>",
 			"Provides [1] [Oil] <in [Toxic Waste] tiles> <after discovering [Decontamination]>",
-			"Pillaging this improvement yields approximately [+10 Gold]"],
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
 		"shortcutKey": "I"
 	},
-
 	{
 		"name": "Yurt",
 		"uniqueTo": "The Hunnu",
@@ -443,6 +455,20 @@
 			"Unbuildable <in tiles adjacent to [Yurt] tiles>"
 		],
 		"shortcutKey": "Z"
+	},
+
+	// Terraforming
+	{
+		"name": "Tunnel",
+		"terrainsCanBeBuiltOn": ["Mountain"],
+		"turnsToBuild": 4,
+		"techRequired": "Engineering",
+		"uniques": [
+			"Can be built outside your borders",
+			"Turn this tile into a [Mountain Tunnel] tile",
+			"Excluded from map editor"
+		],
+		"shortcutKey": "T"
 	},
 
 	// Transportation
@@ -538,6 +564,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -559,6 +586,7 @@
 			"Gain control over [all] tiles in a [1]-tile radius",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -576,6 +604,7 @@
 			"Gain control over [all] tiles in a [1]-tile radius",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -592,6 +621,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -608,6 +638,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -626,6 +657,7 @@
 			"[+1 Culture, +1 Faith] <after discovering [Chemistry]>",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -643,6 +675,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -660,6 +693,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -674,6 +708,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -693,6 +728,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -711,6 +747,7 @@
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Unbuildable <in [Mountain] tiles>",
+			"Unbuildable <in [Mountain Tunnel] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},

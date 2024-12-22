@@ -188,6 +188,8 @@
 		//Mountainous
 		"Mountain+Moisture trap": ["Mountain", "Moisture trap-Mountain"],
 		"Mountain+Artificial glacier": ["Mountain", "Artificial glacier-Mountain"],
+		"Mountain Tunnel+Moisture trap": ["Mountain Tunnel", "Moisture trap-Mountain"],
+		"Mountain Tunnel+Artificial glacier": ["Mountain Tunnel", "Artificial glacier-Mountain"],
 		//Salvage site
 		"Wasteland+Salvage site+Scrap": ["Wasteland", "Scrap", "Salvage site"],
 		"Wasteland+Forest+Salvage site+Scrap": ["Wasteland", "Scrap", "WastelandForest", "Salvage site"],
