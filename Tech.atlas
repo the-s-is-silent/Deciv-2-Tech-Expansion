@@ -207,28 +207,28 @@ TechIcons/Networking
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Nuclear Power
+TechIcons/Ocean Remediation
   rotate: false
   xy: 760, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Ocean Remediation
+TechIcons/Oceanography
   rotate: false
   xy: 868, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Oceanography
+TechIcons/Re-Utilization
   rotate: false
   xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Re-Utilization
+TechIcons/Record Keeping
   rotate: false
   xy: 760, 112
   size: 100, 100
@@ -270,23 +270,16 @@ TechIcons/Social Engineering
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Storytelling
+TechIcons/Trade
   rotate: false
   xy: 1084, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-TechIcons/Trade
-  rotate: false
-  xy: 868, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 TechIcons/Writing
   rotate: false
-  xy: 976, 112
+  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
