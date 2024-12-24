@@ -30,6 +30,7 @@ Buildings:
 * Calutron: [sensor](https://thenounproject.com/icon/sensor-4110877/) by Robert Bjurshagen, SE
 * Clan Hideout: [Bunker](https://thenounproject.com/icon/bunker-2972283/) by IcoLabs, BR
 * Club Chapter: [Jacket](https://thenounproject.com/icon/jacket-97230/) by Eugene Belyakov, TH
+* Condenser Cooler: Based on [nuclear power](https://thenounproject.com/icon/nuclear-power-1970705/) by ProSymbols, US
 * Cryo Sanctum: [Cryogenic Vault](https://thenounproject.com/icon/cryogenic-vault-115036/) by Brandon Gamm, US
 * Discipline Camp: [whip](https://thenounproject.com/icon/whip-6740093/) by Danil Polshin, RU
 * Domesday Project: based on [Book](https://thenounproject.com/icon/book-2173674/) by scott desmond, FR, and [UK](https://thenounproject.com/icon/uk-695682/) by Tom Walsh, GB
@@ -54,6 +55,7 @@ Buildings:
 * Mobile Encampment: [camp](https://thenounproject.com/icon/camp-3242188/) by Vectors Point, PK
 * Moonshinery: [Moonshine](https://thenounproject.com/icon/moonshine-1923/) by Andrew Nielsen, AU
 * Naadam Square: [arena](https://thenounproject.com/icon/arena-5746074/) by Icons Cart, PK
+* Oasis Atoll: [paradise island](https://thenounproject.com/icon/paradise-island-2626825/) by Nicole Hammonds, US
 * Open the Vault: [Cave](https://thenounproject.com/icon/cave-1842205/) by Bakunetsu Kaito
 * Pit of Sacrifice: [Mass Grave](https://thenounproject.com/icon/mass-grave-75126/) by Dan Hetteix, US
 * Place of Order: [Mongolia](https://thenounproject.com/icon/mongolia-2012938/) by WiStudio, TH
